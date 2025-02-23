@@ -1,4 +1,4 @@
-- # 👋 Hi, I’m @sairosthedev 👋
+# 👋 Hi, I’m @sairosthedev
 
 Welcome to my GitHub profile. I’m a **Full Stack Developer & UI/UX Designer** who loves turning ideas into interactive realities. Check out my portfolio at [macdonaldsairos.vercel.app](https://macdonaldsairos.vercel.app) for a deeper dive into my work and projects.
 
@@ -101,11 +101,44 @@ I'm always excited to collaborate or discuss new ideas. You can reach me through
 
 ---
 
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sairosthedev&show_icons=true&theme=radical)](https://github.com/sairosthedev)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sairosthedev&theme=radical)](https://github.com/sairosthedev)
+
+---
+
+## Contribution Snake
+
+[![Snake animation](https://github.com/sairosthedev/sairosthedev/blob/output/github-contribution-grid-snake.svg)](https://github.com/sairosthedev)
+
+---
+
+## Pinned Repositories
+
+<!-- Replace `<repo-name>` with the actual repository names -->
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=sairosthedev&repo=repo-name-1)](https://github.com/sairosthedev/repo-name-1)
+[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=sairosthedev&repo=repo-name-2)](https://github.com/sairosthedev/repo-name-2)
+
+---
+
+## Join Our Discord Community
+
+Join our Discord community to collaborate on projects, discuss ideas, and get real-time support:
+
+[![Discord](https://img.shields.io/discord/your-discord-id-here?label=Discord&style=for-the-badge)](https://discord.gg/your-discord)
+
+---
+
+## Support My Coffee Habit ☕️
+
+If you enjoy my work and would like to support my projects, consider buying me a coffee!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FF813F.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sairosthedev&style=flat-square)
 
 > *"Turning ideas into interactive realities."*
-
-<!---
-sairosthedev/sairosthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
