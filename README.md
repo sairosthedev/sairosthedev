@@ -15,6 +15,7 @@ I build interactive and responsive web applications using modern web technologie
 - **Node.js** & Express
 - **Next.js**
 - **HTML** & **CSS**
+- **Typescript**
 - **PostgreSQL** / MySQL & Sequelize
 - **Git** for version control
 
@@ -34,6 +35,7 @@ I’m a fast learner, a strong team player, and always eager to collaborate on i
 [![Express](https://img.shields.io/badge/Express-4.17.1-lightgrey.svg?style=for-the-badge&logo=express)](https://expressjs.com/)
 [![Next.js](https://img.shields.io/badge/Next.js-12-black.svg?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
