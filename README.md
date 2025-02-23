@@ -111,12 +111,12 @@ I'm always excited to collaborate or discuss new ideas. You can reach me through
 
 ## Contribution Snake
 
-<!-- 
+
 [![Snake animation](https://github.com/sairosthedev/sairosthedev/blob/output/github-contribution-grid-snake.svg)](https://github.com/sairosthedev)
 
 Note: The Contribution Snake image is currently not displaying because it requires a GitHub Action to generate the file at the specified location. 
 To enable it, set up the GitHub Action as described in the [Contribution Snake repository](https://github.com/Platane/snake) or remove this section if not needed.
--->
+
 
 ---
 
