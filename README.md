@@ -115,27 +115,7 @@ I'm always excited to collaborate or discuss new ideas. You can reach me through
 
 ---
 
-## Pinned Repositories
-
-<!-- Replace `<repo-name>` with the actual repository names -->
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=sairosthedev&repo=repo-name-1)](https://github.com/sairosthedev/repo-name-1)
-[![Pinned Repo](https://github-readme-stats.vercel.app/api/pin/?username=sairosthedev&repo=repo-name-2)](https://github.com/sairosthedev/repo-name-2)
-
----
-
-## Join Our Discord Community
-
-Join our Discord community to collaborate on projects, discuss ideas, and get real-time support:
-
-[![Discord](https://img.shields.io/discord/your-discord-id-here?label=Discord&style=for-the-badge)](https://discord.gg/your-discord)
-
----
-
-## Support My Coffee Habit ☕️
-
-If you enjoy my work and would like to support my projects, consider buying me a coffee!
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23FF813F.svg?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/yourusername)
+#
 
 ---
 
