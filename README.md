@@ -1,5 +1,3 @@
-
-
 - # 👋 Hi, I’m @sairosthedev 👋
 
 Welcome to my GitHub profile. I’m a **Full Stack Developer & UI/UX Designer** who loves turning ideas into interactive realities. Check out my portfolio at [macdonaldsairos.vercel.app](https://macdonaldsairos.vercel.app) for a deeper dive into my work and projects.
@@ -15,7 +13,7 @@ I build interactive and responsive web applications using modern web technologie
 - **Node.js** & Express
 - **Next.js**
 - **HTML** & **CSS**
-- **Typescript**
+- **TypeScript**
 - **PostgreSQL** / MySQL & Sequelize
 - **Git** for version control
 
@@ -37,6 +35,23 @@ I’m a fast learner, a strong team player, and always eager to collaborate on i
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+
+---
+
+## Skills & Tools
+
+Below are some of the key skills and tools I frequently use, along with my proficiency levels as showcased on my portfolio:
+
+| Skill/Tool   | Proficiency |
+|--------------|-------------|
+| Node.js      | 90%         |
+| Express      | 85%         |
+| MySQL        | 80%         |
+| Next.js      | 85%         |
+| JavaScript   | 95%         |
+| React        | 90%         |
+
+*These ratings reflect my hands-on experience and professional certifications.*
 
 ---
 
@@ -77,8 +92,6 @@ I'm always excited to collaborate or discuss new ideas. You can reach me through
 ![Profile Views](https://komarev.com/ghpvc/?username=sairosthedev&style=flat-square)
 
 > *"Turning ideas into interactive realities."*
-
-
 
 <!---
 sairosthedev/sairosthedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
