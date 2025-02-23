@@ -38,6 +38,18 @@ I’m a fast learner, a strong team player, and always eager to collaborate on i
 
 ---
 
+## Data Science Tools
+
+<!-- SVG badges for data science libraries -->
+[![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C.svg?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-FFCA28.svg?style=for-the-badge&logo=jupyter&logoColor=black)](https://jupyter.org/)
+
+---
+
 ## Skills & Tools
 
 Below are some of the key skills and tools I frequently use, along with my proficiency levels as showcased on my portfolio:
