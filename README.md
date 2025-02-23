@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sairosthedev
 - 👀 I’m interested in ...Software Engineering
 - 🌱 I’m currently learning ...Data Science and Informatics
-- 📫 How to reach me ...Macdonald Sairos on LinkedIn,facebook and whatsapp/call =263786033933
+- 📫 How to reach me ...Macdonald Sairos on LinkedIn,facebook and whatsapp/call +263786033933
 - 😄 Pronouns: ...Mr
 
 
