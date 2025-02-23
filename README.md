@@ -77,13 +77,13 @@ I'm always excited to collaborate or discuss new ideas. You can reach me through
 
 <p align="center">
   <a href="https://github.com/sairosthedev">
-    <img src="https://raw.githubusercontent.com/sairosthedev/sairosthedev/main/assets/icons/github.svg" alt="GitHub" width="30" />
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/macdonald-sairos-8b1686186">
-    <img src="https://raw.githubusercontent.com/sairosthedev/sairosthedev/main/assets/icons/linkedin.svg" alt="LinkedIn" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:macdonaldsairos@gmail.com">
-    <img src="https://raw.githubusercontent.com/sairosthedev/sairosthedev/main/assets/icons/email.svg" alt="Email" width="30" />
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
