@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sairosthedev
-- 👀 I’m interested in ...Software Engineering
-- 🌱 I’m currently learning ...Data Science and Informatics
-- 📫 How to reach me ...Macdonald Sairos on LinkedIn,facebook and whatsapp/call +263786033933
-- 😄 Pronouns: ...Mr
 
-- # Hi there, I'm Sairos The Dev! 👋
+
+- # 👋 Hi, I’m @sairosthedev 👋
 
 Welcome to my GitHub profile. I’m a **Full Stack Developer & UI/UX Designer** who loves turning ideas into interactive realities. Check out my portfolio at [macdonaldsairos.vercel.app](https://macdonaldsairos.vercel.app) for a deeper dive into my work and projects.
 
@@ -65,7 +61,7 @@ I'm always excited to collaborate or discuss new ideas. You can reach me through
   <a href="https://github.com/sairosthedev">
     <img src="https://raw.githubusercontent.com/sairosthedev/sairosthedev/main/assets/icons/github.svg" alt="GitHub" width="30" />
   </a>
-  <a href="https://www.linkedin.com/in/macdonaldsairos">
+  <a href="https://www.linkedin.com/in/macdonald-sairos-8b1686186">
     <img src="https://raw.githubusercontent.com/sairosthedev/sairosthedev/main/assets/icons/linkedin.svg" alt="LinkedIn" width="30" />
   </a>
   <a href="mailto:macdonaldsairos@gmail.com">
