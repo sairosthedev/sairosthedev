@@ -16,6 +16,7 @@ I build interactive and responsive web applications using modern web technologie
 - **TypeScript**
 - **PostgreSQL** / MySQL & Sequelize
 - **Git** for version control
+- **C#**
 
 I’m a fast learner, a strong team player, and always eager to collaborate on innovative projects.
 
